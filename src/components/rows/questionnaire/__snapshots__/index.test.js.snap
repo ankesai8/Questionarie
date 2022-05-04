@@ -1,0 +1,1667 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Questionnaire  UI should render headline 1`] = `
+<div
+  className="wrapper"
+>
+  <div
+    className="left-content"
+  >
+    <a
+      href="#"
+    >
+      <img
+        alt="app-image"
+        className="logo"
+        src="logo.svg"
+      />
+    </a>
+    <figure
+      className="img-wrapper"
+    >
+      <img
+        alt="backgroung-image"
+        className="app-image"
+        src="bg.png"
+      />
+    </figure>
+  </div>
+  <div
+    className="right-content"
+  >
+    <div
+      className="into-card"
+    >
+      <h1
+        className="name"
+      >
+        Personal Liability Insurance
+      </h1>
+      <p
+        className="description"
+      >
+         
+        In order to create your personal private liability insurance offer, we need some information from you.
+      </p>
+    </div>
+    <form
+      className="question-wrapper"
+      onSubmit={[Function]}
+    >
+      <fieldset
+        className="animate question"
+        id="list_12110962"
+      >
+        <label
+          className="label-name"
+        >
+          Who do you want to insure?
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12110962"
+            onChange={[Function]}
+            type="radio"
+            value="My family with children"
+          />
+          <span>
+            My family with children
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12110962"
+            onChange={[Function]}
+            type="radio"
+            value="My family without children"
+          />
+          <span>
+            My family without children
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12110962"
+            onChange={[Function]}
+            type="radio"
+            value="Me without a child"
+          />
+          <span>
+            Me without a child
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12110962"
+            onChange={[Function]}
+            type="radio"
+            value="Me with child"
+          />
+          <span>
+            Me with kid
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12110962"
+            onChange={[Function]}
+            type="radio"
+            value="Me and my partner"
+          />
+          <span>
+            Me and my partner
+          </span>
+        </label>
+      </fieldset>
+      <fieldset
+        className="animate question"
+        id="list_12111610"
+      >
+        <label
+          className="label-name"
+        >
+          Are you a civil servant or a public servant?
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12111610"
+            onChange={[Function]}
+            type="radio"
+            value="Yes"
+          />
+          <span>
+            Yes
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12111610"
+            onChange={[Function]}
+            type="radio"
+            value="No"
+          />
+          <span>
+            No
+          </span>
+        </label>
+      </fieldset>
+      <fieldset
+        className="animate question"
+        id="list_12111777"
+      >
+        <label
+          className="label-name"
+        >
+          Would you like to secure bad debt insurance?
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12111777"
+            onChange={[Function]}
+            type="radio"
+            value="Yes"
+          />
+          <span>
+            Yes
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12111777"
+            onChange={[Function]}
+            type="radio"
+            value="No"
+          />
+          <span>
+            No
+          </span>
+        </label>
+      </fieldset>
+      <fieldset
+        className="animate question"
+        id="list_12110966"
+      >
+        <label
+          className="label-name"
+        >
+          How important is it to you to protect yourself against damage to rented property?
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12110966"
+            onChange={[Function]}
+            type="radio"
+            value="Important"
+          />
+          <span>
+            Important
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12110966"
+            onChange={[Function]}
+            type="radio"
+            value="Not important"
+          />
+          <span>
+            Unimportant
+          </span>
+        </label>
+      </fieldset>
+      <fieldset
+        className="animate question"
+        id="list_12110967"
+      >
+        <label
+          className="label-name"
+        >
+          Do you own one or more properties?
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12110967"
+            onChange={[Function]}
+            type="radio"
+            value="Yes"
+          />
+          <span>
+            Yes
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12110967"
+            onChange={[Function]}
+            type="radio"
+            value="No"
+          />
+          <span>
+            No
+          </span>
+        </label>
+      </fieldset>
+      <fieldset
+        className="animate question"
+        id="list_12110968"
+      >
+        <label
+          className="label-name"
+        >
+          Do you own a property you live in?
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12110968"
+            onChange={[Function]}
+            type="radio"
+            value="Yes, domestically"
+          />
+          <span>
+            Yes, domestic
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12110968"
+            onChange={[Function]}
+            type="radio"
+            value="Yes, abroad"
+          />
+          <span>
+            Yes, abroad
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12110968"
+            onChange={[Function]}
+            type="radio"
+            value="Yes, domestically and internationally"
+          />
+          <span>
+            Yes, domestically and internationally
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12110968"
+            onChange={[Function]}
+            type="radio"
+            value="No"
+          />
+          <span>
+            No
+          </span>
+        </label>
+      </fieldset>
+      <fieldset
+        className="animate question"
+        id="list_13907264"
+      >
+        <label
+          className="label-name"
+        >
+          Do you have one or more rented properties?
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_13907264"
+            onChange={[Function]}
+            type="radio"
+            value="Yes, domestically"
+          />
+          <span>
+            Yes, domestic
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_13907264"
+            onChange={[Function]}
+            type="radio"
+            value="Yes, abroad"
+          />
+          <span>
+            Yes, abroad
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_13907264"
+            onChange={[Function]}
+            type="radio"
+            value="Yes, domestically and internationally"
+          />
+          <span>
+            Yes, domestically and internationally
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_13907264"
+            onChange={[Function]}
+            type="radio"
+            value="No"
+          />
+          <span>
+            No
+          </span>
+        </label>
+      </fieldset>
+      <fieldset
+        className="animate question"
+        id="list_12111854"
+      >
+        <label
+          className="label-name"
+        >
+          Would you like to build or remodel something in the near future?
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12111854"
+            onChange={[Function]}
+            type="radio"
+            value="Yes"
+          />
+          <span>
+            Yes
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12111854"
+            onChange={[Function]}
+            type="radio"
+            value="No"
+          />
+          <span>
+            No
+          </span>
+        </label>
+      </fieldset>
+      <fieldset
+        className="animate question"
+        id="list_12110972"
+      >
+        <label
+          className="label-name"
+        >
+          How important is it to you to protect yourself against losing your keys at work?
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12110972"
+            onChange={[Function]}
+            type="radio"
+            value="Important"
+          />
+          <span>
+            Important
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12110972"
+            onChange={[Function]}
+            type="radio"
+            value="Not important"
+          />
+          <span>
+            Unimportant
+          </span>
+        </label>
+      </fieldset>
+      <fieldset
+        className="animate question"
+        id="list_13913438"
+      >
+        <label
+          className="label-name"
+        >
+          Would you like to secure the loss of private keys?
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_13913438"
+            onChange={[Function]}
+            type="radio"
+            value="Yes"
+          />
+          <span>
+            Yes
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_13913438"
+            onChange={[Function]}
+            type="radio"
+            value="No"
+          />
+          <span>
+            No
+          </span>
+        </label>
+      </fieldset>
+      <fieldset
+        className="animate question"
+        id="list_12110969"
+      >
+        <label
+          className="label-name"
+        >
+          Would you like to be insured abroad?
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12110969"
+            onChange={[Function]}
+            type="radio"
+            value="Yes, up to a month"
+          />
+          <span>
+            Yes, up to a month
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12110969"
+            onChange={[Function]}
+            type="radio"
+            value="Yes, several months"
+          />
+          <span>
+            Yes, several months
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12110969"
+            onChange={[Function]}
+            type="radio"
+            value="No"
+          />
+          <span>
+            No
+          </span>
+        </label>
+      </fieldset>
+      <fieldset
+        className="animate question"
+        id="list_12110970"
+      >
+        <label
+          className="label-name"
+        >
+          Do you have a sailboat?
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12110970"
+            onChange={[Function]}
+            type="radio"
+            value="Up to 4 m²"
+          />
+          <span>
+            Up to 4 m²
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12110970"
+            onChange={[Function]}
+            type="radio"
+            value="Up to 10 m²"
+          />
+          <span>
+            Up to 10 m²
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12110970"
+            onChange={[Function]}
+            type="radio"
+            value="Up to 15 m²"
+          />
+          <span>
+            Up to 15 m²
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12110970"
+            onChange={[Function]}
+            type="radio"
+            value="Up to 25 m²"
+          />
+          <span>
+            Up to 25 m²
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12110970"
+            onChange={[Function]}
+            type="radio"
+            value="No"
+          />
+          <span>
+            No
+          </span>
+        </label>
+      </fieldset>
+      <fieldset
+        className="animate question"
+        id="list_12110971"
+      >
+        <label
+          className="label-name"
+        >
+          Do you have a motor boat?
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12110971"
+            onChange={[Function]}
+            type="radio"
+            value="Up to 5 hp"
+          />
+          <span>
+            Up to 5 hp
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12110971"
+            onChange={[Function]}
+            type="radio"
+            value="Up to 10 hp"
+          />
+          <span>
+            Up to 10 hp
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12110971"
+            onChange={[Function]}
+            type="radio"
+            value="Up to 15 hp"
+          />
+          <span>
+            Up to 15 hp
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12110971"
+            onChange={[Function]}
+            type="radio"
+            value="Unlimited HP"
+          />
+          <span>
+            Unlimited HP
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12110971"
+            onChange={[Function]}
+            type="radio"
+            value="No"
+          />
+          <span>
+            No
+          </span>
+        </label>
+      </fieldset>
+      <fieldset
+        className="animate question"
+        id="list_12110965"
+      >
+        <label
+          className="label-name"
+        >
+          Would you like to pay part of the damage yourself?
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12110965"
+            onChange={[Function]}
+            type="radio"
+            value="No"
+          />
+          <span>
+            No
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12110965"
+            onChange={[Function]}
+            type="radio"
+            value="Yes, up to 150 euros"
+          />
+          <span>
+            Yes, up to 150 euros
+          </span>
+        </label>
+      </fieldset>
+      <fieldset
+        className="animate question"
+        id="list_12111717"
+      >
+        <label
+          className="label-name"
+        >
+          Do you currently have personal liability insurance?
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12111717"
+            onChange={[Function]}
+            type="radio"
+            value="Yes"
+          />
+          <span>
+            Yes
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12111717"
+            onChange={[Function]}
+            type="radio"
+            value="No"
+          />
+          <span>
+            No
+          </span>
+        </label>
+      </fieldset>
+      <fieldset
+        className="animate question"
+        id="list_12111755"
+      >
+        <label
+          className="label-name"
+        >
+          How many liability claims have you had in the last 5 years?
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12111755"
+            onChange={[Function]}
+            type="radio"
+            value="None"
+          />
+          <span>
+            None
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12111755"
+            onChange={[Function]}
+            type="radio"
+            value="1"
+          />
+          <span>
+            1
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12111755"
+            onChange={[Function]}
+            type="radio"
+            value="2"
+          />
+          <span>
+            2
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12111755"
+            onChange={[Function]}
+            type="radio"
+            value="3"
+          />
+          <span>
+            3
+          </span>
+        </label>
+        <label
+          className="option"
+        >
+          <input
+            checked={false}
+            className="radio-btn"
+            name="list_12111755"
+            onChange={[Function]}
+            type="radio"
+            value="More than 3"
+          />
+          <span>
+            More than 3
+          </span>
+        </label>
+      </fieldset>
+      <fieldset
+        className="animate question"
+        id="date_22039590"
+      >
+        <label
+          className="label-name"
+        >
+          What would be your preferred date for the start of personal liability insurance?
+        </label>
+        <input
+          className="input-field"
+          name="date_22039590"
+          onChange={[Function]}
+          placeholder="Placeholder text..."
+          required={false}
+          type="text"
+        />
+      </fieldset>
+      <fieldset
+        className="animate question"
+        id="textarea_12110979"
+      >
+        <label
+          className="label-name"
+        >
+          Do you have any additional information or comments for us?
+        </label>
+        <textarea
+          className="text-field"
+          name="textarea_12110979"
+          onChange={[Function]}
+          placeholder="Placeholder text"
+          rows="5"
+        />
+      </fieldset>
+      <fieldset
+        className="animate question"
+        id="email_123"
+      >
+        <label
+          className="label-name"
+        >
+          Please provide your Email Id
+        </label>
+        <input
+          className="input-field"
+          name="email_123"
+          onChange={[Function]}
+          placeholder="Email Id"
+          required={true}
+          type="email"
+        />
+      </fieldset>
+      <div
+        className="submit animate"
+      >
+        <button
+          className="button"
+          type="submit"
+        >
+          Submit
+          <span
+            className="icon"
+          >
+            →
+          </span>
+        </button>
+      </div>
+    </form>
+  </div>
+</div>
+`;
+
+exports[`Questionnaire App renders the Questionnaire App properly 1`] = `
+<div
+  className="wrapper"
+>
+  <div
+    className="left-content"
+  >
+    <a
+      href="#"
+    >
+      <img
+        alt="app-image"
+        className="logo"
+        src="logo.svg"
+      />
+    </a>
+    <figure
+      className="img-wrapper"
+    >
+      <img
+        alt="backgroung-image"
+        className="app-image"
+        src="bg.png"
+      />
+    </figure>
+  </div>
+  <div
+    className="right-content"
+  >
+    <div
+      className="into-card"
+    >
+      <h1
+        className="name"
+      >
+        Personal Liability Insurance
+      </h1>
+      <p
+        className="description"
+      >
+         
+        In order to create your personal private liability insurance offer, we need some information from you.
+      </p>
+    </div>
+    <form
+      className="question-wrapper"
+      onSubmit={[Function]}
+    >
+      <Questions
+        onChange={[Function]}
+        question={
+          Object {
+            "choices": Array [
+              Object {
+                "label": "My family with children",
+                "selected": false,
+                "value": "My family with children",
+              },
+              Object {
+                "label": "My family without children",
+                "selected": false,
+                "value": "My family without children",
+              },
+              Object {
+                "label": "Me without a child",
+                "selected": false,
+                "value": "Me without a child",
+              },
+              Object {
+                "label": "Me with kid",
+                "selected": false,
+                "value": "Me with child",
+              },
+              Object {
+                "label": "Me and my partner",
+                "selected": false,
+                "value": "Me and my partner",
+              },
+            ],
+            "description": null,
+            "headline": "Who do you want to insure?",
+            "identifier": "list_12110962",
+            "jumps": Array [],
+            "multiple": "false",
+            "question_type": "multiple choice",
+            "required": false,
+          }
+        }
+      />
+      <Questions
+        onChange={[Function]}
+        question={
+          Object {
+            "choices": Array [
+              Object {
+                "label": "Yes",
+                "selected": false,
+                "value": "Yes",
+              },
+              Object {
+                "label": "No",
+                "selected": false,
+                "value": "No",
+              },
+            ],
+            "description": null,
+            "headline": "Are you a civil servant or a public servant?",
+            "identifier": "list_12111610",
+            "jumps": Array [],
+            "multiple": "false",
+            "question_type": "multiple choice",
+            "required": false,
+          }
+        }
+      />
+      <Questions
+        onChange={[Function]}
+        question={
+          Object {
+            "choices": Array [
+              Object {
+                "label": "Yes",
+                "selected": false,
+                "value": "Yes",
+              },
+              Object {
+                "label": "No",
+                "selected": false,
+                "value": "No",
+              },
+            ],
+            "description": null,
+            "headline": "Would you like to secure bad debt insurance?",
+            "identifier": "list_12111777",
+            "jumps": Array [],
+            "multiple": "false",
+            "question_type": "multiple choice",
+            "required": false,
+          }
+        }
+      />
+      <Questions
+        onChange={[Function]}
+        question={
+          Object {
+            "choices": Array [
+              Object {
+                "label": "Important",
+                "selected": false,
+                "value": "Important",
+              },
+              Object {
+                "label": "Unimportant",
+                "selected": false,
+                "value": "Not important",
+              },
+            ],
+            "description": null,
+            "headline": "How important is it to you to protect yourself against damage to rented property?",
+            "identifier": "list_12110966",
+            "jumps": Array [],
+            "multiple": "false",
+            "question_type": "multiple choice",
+            "required": false,
+          }
+        }
+      />
+      <Questions
+        onChange={[Function]}
+        question={
+          Object {
+            "choices": Array [
+              Object {
+                "label": "Yes",
+                "selected": false,
+                "value": "Yes",
+              },
+              Object {
+                "label": "No",
+                "selected": false,
+                "value": "No",
+              },
+            ],
+            "description": null,
+            "headline": "Do you own one or more properties?",
+            "identifier": "list_12110967",
+            "jumps": Array [
+              Object {
+                "conditions": Array [
+                  Object {
+                    "field": "list_12110967",
+                    "value": "Yes",
+                  },
+                ],
+                "destination": Object {
+                  "id": "list_12110968",
+                },
+              },
+              Object {
+                "conditions": Array [
+                  Object {
+                    "field": "list_12110967",
+                    "value": "No",
+                  },
+                ],
+                "destination": Object {
+                  "id": "list_12111854",
+                },
+              },
+            ],
+            "multiple": "false",
+            "question_type": "multiple choice",
+            "required": false,
+          }
+        }
+      />
+      <Questions
+        onChange={[Function]}
+        question={
+          Object {
+            "choices": Array [
+              Object {
+                "label": "Yes, domestic",
+                "selected": false,
+                "value": "Yes, domestically",
+              },
+              Object {
+                "label": "Yes, abroad",
+                "selected": false,
+                "value": "Yes, abroad",
+              },
+              Object {
+                "label": "Yes, domestically and internationally",
+                "selected": false,
+                "value": "Yes, domestically and internationally",
+              },
+              Object {
+                "label": "No",
+                "selected": false,
+                "value": "No",
+              },
+            ],
+            "description": null,
+            "headline": "Do you own a property you live in?",
+            "identifier": "list_12110968",
+            "jumps": Array [],
+            "multiple": "false",
+            "question_type": "multiple choice",
+            "required": false,
+          }
+        }
+      />
+      <Questions
+        onChange={[Function]}
+        question={
+          Object {
+            "choices": Array [
+              Object {
+                "label": "Yes, domestic",
+                "selected": false,
+                "value": "Yes, domestically",
+              },
+              Object {
+                "label": "Yes, abroad",
+                "selected": false,
+                "value": "Yes, abroad",
+              },
+              Object {
+                "label": "Yes, domestically and internationally",
+                "selected": false,
+                "value": "Yes, domestically and internationally",
+              },
+              Object {
+                "label": "No",
+                "selected": false,
+                "value": "No",
+              },
+            ],
+            "description": null,
+            "headline": "Do you have one or more rented properties?",
+            "identifier": "list_13907264",
+            "jumps": Array [],
+            "multiple": "false",
+            "question_type": "multiple choice",
+            "required": false,
+          }
+        }
+      />
+      <Questions
+        onChange={[Function]}
+        question={
+          Object {
+            "choices": Array [
+              Object {
+                "label": "Yes",
+                "selected": false,
+                "value": "Yes",
+              },
+              Object {
+                "label": "No",
+                "selected": false,
+                "value": "No",
+              },
+            ],
+            "description": null,
+            "headline": "Would you like to build or remodel something in the near future?",
+            "identifier": "list_12111854",
+            "jumps": Array [],
+            "multiple": "false",
+            "question_type": "multiple choice",
+            "required": false,
+          }
+        }
+      />
+      <Questions
+        onChange={[Function]}
+        question={
+          Object {
+            "choices": Array [
+              Object {
+                "label": "Important",
+                "selected": false,
+                "value": "Important",
+              },
+              Object {
+                "label": "Unimportant",
+                "selected": false,
+                "value": "Not important",
+              },
+            ],
+            "description": null,
+            "headline": "How important is it to you to protect yourself against losing your keys at work?",
+            "identifier": "list_12110972",
+            "jumps": Array [],
+            "multiple": "false",
+            "question_type": "multiple choice",
+            "required": false,
+          }
+        }
+      />
+      <Questions
+        onChange={[Function]}
+        question={
+          Object {
+            "choices": Array [
+              Object {
+                "label": "Yes",
+                "selected": false,
+                "value": "Yes",
+              },
+              Object {
+                "label": "No",
+                "selected": false,
+                "value": "No",
+              },
+            ],
+            "description": null,
+            "headline": "Would you like to secure the loss of private keys?",
+            "identifier": "list_13913438",
+            "jumps": Array [],
+            "multiple": "false",
+            "question_type": "multiple choice",
+            "required": false,
+          }
+        }
+      />
+      <Questions
+        onChange={[Function]}
+        question={
+          Object {
+            "choices": Array [
+              Object {
+                "label": "Yes, up to a month",
+                "selected": false,
+                "value": "Yes, up to a month",
+              },
+              Object {
+                "label": "Yes, several months",
+                "selected": false,
+                "value": "Yes, several months",
+              },
+              Object {
+                "label": "No",
+                "selected": false,
+                "value": "No",
+              },
+            ],
+            "description": null,
+            "headline": "Would you like to be insured abroad?",
+            "identifier": "list_12110969",
+            "jumps": Array [],
+            "multiple": "false",
+            "question_type": "multiple choice",
+            "required": false,
+          }
+        }
+      />
+      <Questions
+        onChange={[Function]}
+        question={
+          Object {
+            "choices": Array [
+              Object {
+                "label": "Up to 4 m²",
+                "selected": false,
+                "value": "Up to 4 m²",
+              },
+              Object {
+                "label": "Up to 10 m²",
+                "selected": false,
+                "value": "Up to 10 m²",
+              },
+              Object {
+                "label": "Up to 15 m²",
+                "selected": false,
+                "value": "Up to 15 m²",
+              },
+              Object {
+                "label": "Up to 25 m²",
+                "selected": false,
+                "value": "Up to 25 m²",
+              },
+              Object {
+                "label": "No",
+                "selected": false,
+                "value": "No",
+              },
+            ],
+            "description": null,
+            "headline": "Do you have a sailboat?",
+            "identifier": "list_12110970",
+            "jumps": Array [],
+            "multiple": "false",
+            "question_type": "multiple choice",
+            "required": false,
+          }
+        }
+      />
+      <Questions
+        onChange={[Function]}
+        question={
+          Object {
+            "choices": Array [
+              Object {
+                "label": "Up to 5 hp",
+                "selected": false,
+                "value": "Up to 5 hp",
+              },
+              Object {
+                "label": "Up to 10 hp",
+                "selected": false,
+                "value": "Up to 10 hp",
+              },
+              Object {
+                "label": "Up to 15 hp",
+                "selected": false,
+                "value": "Up to 15 hp",
+              },
+              Object {
+                "label": "Unlimited HP",
+                "selected": false,
+                "value": "Unlimited HP",
+              },
+              Object {
+                "label": "No",
+                "selected": false,
+                "value": "No",
+              },
+            ],
+            "description": null,
+            "headline": "Do you have a motor boat?",
+            "identifier": "list_12110971",
+            "jumps": Array [],
+            "multiple": "false",
+            "question_type": "multiple choice",
+            "required": false,
+          }
+        }
+      />
+      <Questions
+        onChange={[Function]}
+        question={
+          Object {
+            "choices": Array [
+              Object {
+                "label": "No",
+                "selected": false,
+                "value": "No",
+              },
+              Object {
+                "label": "Yes, up to 150 euros",
+                "selected": false,
+                "value": "Yes, up to 150 euros",
+              },
+            ],
+            "description": null,
+            "headline": "Would you like to pay part of the damage yourself?",
+            "identifier": "list_12110965",
+            "jumps": Array [],
+            "multiple": "false",
+            "question_type": "multiple choice",
+            "required": false,
+          }
+        }
+      />
+      <Questions
+        onChange={[Function]}
+        question={
+          Object {
+            "choices": Array [
+              Object {
+                "label": "Yes",
+                "selected": false,
+                "value": "Yes",
+              },
+              Object {
+                "label": "No",
+                "selected": false,
+                "value": "No",
+              },
+            ],
+            "description": null,
+            "headline": "Do you currently have personal liability insurance?",
+            "identifier": "list_12111717",
+            "jumps": Array [
+              Object {
+                "conditions": Array [
+                  Object {
+                    "field": "list_12111717",
+                    "value": "Yes",
+                  },
+                ],
+                "destination": Object {
+                  "id": "list_12111755",
+                },
+              },
+              Object {
+                "conditions": Array [
+                  Object {
+                    "field": "list_12111717",
+                    "value": "No",
+                  },
+                ],
+                "destination": Object {
+                  "id": "date_22039590",
+                },
+              },
+            ],
+            "multiple": "false",
+            "question_type": "multiple choice",
+            "required": false,
+          }
+        }
+      />
+      <Questions
+        onChange={[Function]}
+        question={
+          Object {
+            "choices": Array [
+              Object {
+                "label": "None",
+                "selected": false,
+                "value": "None",
+              },
+              Object {
+                "label": "1",
+                "selected": false,
+                "value": "1",
+              },
+              Object {
+                "label": "2",
+                "selected": false,
+                "value": "2",
+              },
+              Object {
+                "label": "3",
+                "selected": false,
+                "value": "3",
+              },
+              Object {
+                "label": "More than 3",
+                "selected": false,
+                "value": "More than 3",
+              },
+            ],
+            "description": null,
+            "headline": "How many liability claims have you had in the last 5 years?",
+            "identifier": "list_12111755",
+            "jumps": Array [],
+            "multiple": "false",
+            "question_type": "multiple choice",
+            "required": false,
+          }
+        }
+      />
+      <Questions
+        onChange={[Function]}
+        question={
+          Object {
+            "description": null,
+            "headline": "What would be your preferred date for the start of personal liability insurance?",
+            "identifier": "date_22039590",
+            "jumps": Array [],
+            "multiline": "false",
+            "question_type": "text",
+            "required": false,
+          }
+        }
+      />
+      <Questions
+        onChange={[Function]}
+        question={
+          Object {
+            "description": null,
+            "headline": "Do you have any additional information or comments for us?",
+            "identifier": "textarea_12110979",
+            "jumps": Array [],
+            "multiline": "true",
+            "question_type": "text-area",
+            "required": false,
+          }
+        }
+      />
+      <Questions
+        onChange={[Function]}
+        question={
+          Object {
+            "description": null,
+            "headline": "Please provide your Email Id",
+            "identifier": "email_123",
+            "jumps": Array [],
+            "multiline": "false",
+            "question_type": "email",
+            "required": true,
+          }
+        }
+      />
+      <div
+        className="submit animate"
+      >
+        <Button
+          text="Submit"
+          type="submit"
+        />
+      </div>
+    </form>
+  </div>
+</div>
+`;

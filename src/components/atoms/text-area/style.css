@@ -1,0 +1,18 @@
+.text-field {
+  background-color: #f0f4f8;
+  border: 0;
+  color: #666;
+  border-bottom: 2px solid  #666;
+  box-shadow: none;
+  margin: 0;
+  width: 100%;  
+  padding: 16px;
+  outline: none;
+  font-family: 'Lato', sans-serif;
+  box-sizing: border-box;
+}
+
+.text-field:focus, .text-field:hover {
+  border-bottom:2px solid  #f7345e;
+  outline: none;
+}

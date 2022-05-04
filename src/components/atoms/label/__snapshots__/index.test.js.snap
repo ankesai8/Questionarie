@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Label  UI should show the correct label text 1`] = `
+<label
+  className="label-name"
+>
+  Do you have any additional information or comments for us?
+</label>
+`;
+
+exports[`Label Label should render properly 1`] = `
+<label
+  className="label-name"
+>
+  Do you have any additional information or comments for us?
+</label>
+`;

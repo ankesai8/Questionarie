@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button  UI should show the button text 1`] = `
+<button
+  className="button"
+  type="submit"
+>
+  Submit
+  <span
+    className="icon"
+  >
+    →
+  </span>
+</button>
+`;
+
+exports[`Button  UI should show the button type 1`] = `
+<button
+  className="button"
+  type="submit"
+>
+  Submit
+  <span
+    className="icon"
+  >
+    →
+  </span>
+</button>
+`;
+
+exports[`Button Button should render properly 1`] = `
+<button
+  className="button"
+  type="submit"
+>
+  Submit
+  <span
+    className="icon"
+  >
+    →
+  </span>
+</button>
+`;

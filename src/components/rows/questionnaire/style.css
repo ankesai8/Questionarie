@@ -1,0 +1,157 @@
+.left-content, .right-content {
+  padding: 32px 24px;
+}
+
+.app-image {
+  max-width: 100%;
+}
+
+.img-wrapper{
+  display: none;
+}
+
+.into-card {
+  border-left: 4px solid #f7345e;
+  padding-left: 16px;
+  margin-bottom: 32px;
+}
+
+.name {
+  font-size: 24px;
+  color: #20292f;
+  padding-bottom: 8px;
+  line-height: normal;
+  margin: 0;
+}
+
+.description {
+  color:  rgb(23 34 53 / 70%);;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.headline {
+  font-size: 18px;
+  display: block;
+  padding-bottom: 12px;
+  font-weight: 600; 
+  color: #20292f;
+  line-height: normal;
+  padding-bottom: 24px;
+}
+
+
+.fade-in-right {
+  opacity: 1;
+  animation-delay: 20ms;
+  animation-name: fadeInRight;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  
+}
+
+
+@keyframes fadeInRight{
+  0% {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+
+.submit {
+  text-align:center;
+}
+
+.message-wrapper {
+  text-align: center;
+  opacity: 1;
+  animation-delay: 20ms;
+  animation-name: fadeIn;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+
+.thank-you {
+  text-align: center;
+  font-size: 24px;
+  background: linear-gradient(-60deg, #f7345e, #FFB03A);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 600;
+  padding-bottom: 8px;
+  margin-bottom: 0;
+
+}
+
+.message {
+  font-size: 16px;
+}
+
+
+@media (min-width: 768px) {
+  .wrapper {
+    display: flex;
+    height: 100%;
+  
+  }
+
+  .left-content {
+    background-color: rgb(255, 239, 249);
+    flex-basis: 40%;
+  }
+
+  .right-content {
+    flex-basis: 60%;
+    overflow: scroll;
+  }
+
+  .into-card {
+    margin-bottom: 56px;
+  }
+
+  .img-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+  }
+
+  .name {
+    font-size: 32px;
+  }
+
+  .description {
+    font-size: 18px;
+  }
+
+  .question-wrapper {
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  @keyframes fadeInRight {
+    0% {
+      -webkit-transform: translate3d(100%, 0, 0);
+      transform: translate3d(100%, 0, 0);
+    }
+    to {
+      -webkit-transform: translateZ(0);
+      transform: translateZ(0);
+    }
+  }
+}

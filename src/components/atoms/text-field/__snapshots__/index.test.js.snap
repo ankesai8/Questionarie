@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InputField  type should show the InputField  type 1`] = `
+<input
+  className="input-field"
+  name="name"
+  onChange={[Function]}
+  placeholder="Placeholder text..."
+  required={false}
+  type="email"
+/>
+`;
+
+exports[`InputField InputField should render properly 1`] = `
+<input
+  className="input-field"
+  name="name"
+  onChange={[Function]}
+  placeholder="Placeholder text..."
+  required={false}
+  type="text"
+/>
+`;
