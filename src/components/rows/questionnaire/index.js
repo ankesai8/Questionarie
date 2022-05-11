@@ -62,9 +62,9 @@ export const Questionnaire = () => {
   return (
     <div className="wrapper">
       <div className="left-content">
-        <a href="#">
-          <img src={logo} className="logo" alt="app-image" />
-        </a>
+//         <a href="#">
+//           <img src={logo} className="logo" alt="app-image" />
+//         </a>
         <figure className="img-wrapper">
           <img src={bgImage} alt="backgroung-image" className="app-image" />
         </figure>
