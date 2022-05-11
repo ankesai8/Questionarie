@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 import { questionnaireData } from "../../../data/questionnaire";
 import { Questions } from "../../molecules/questions";
 import { Button } from "../../atoms/button";
-import logo from "../../../assets/logo.svg";
+
 import bgImage from "../../../assets/bg.png";
 
 import "./style.css";
