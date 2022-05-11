@@ -4,7 +4,7 @@ import { questionnaireData } from "../../../data/questionnaire";
 import { Questions } from "../../molecules/questions";
 import { Button } from "../../atoms/button";
 
-import bgImage from "../../../assets/bg.png";
+import bg from "../../../assets/bg.png";
 
 import "./style.css";
 
@@ -63,7 +63,7 @@ export const Questionnaire = () => {
     <div className="wrapper">
       <div className="left-content">
         <figure className="img-wrapper">
-          <img src={bgImage} alt="backgroung-image" className="app-image" />
+          <img src={bg} alt="backgroung-image" className="app-image" />
         </figure>
       </div>
       <div className="right-content">
