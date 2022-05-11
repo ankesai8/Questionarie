@@ -63,7 +63,7 @@ export const Questionnaire = () => {
     <div className="wrapper">
       <div className="left-content">
         <figure className="img-wrapper">
-          <img src={bg} alt="backgroung-image" className="app-image" />
+          <img src={bg} alt="background" className="app-image" />
         </figure>
       </div>
       <div className="right-content">
