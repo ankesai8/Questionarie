@@ -18,7 +18,7 @@ export const Questions = ({ question, onChange, identifier }) => {
               <MultipleChoiceField
                 choice={choice}
                 onChange={onChange}
-                checked={identifier == choice.value}
+                checked={identifier === choice.value}
                 name={question["identifier"]}
                 jumps={question.jumps}
                 key={`input-${index}`}
